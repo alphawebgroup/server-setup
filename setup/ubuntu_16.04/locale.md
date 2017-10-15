@@ -1,4 +1,3 @@
-
 # Reconfigure locales
 
 select the locales you want in the list (with your settings, you need en_GB and en_US.UTF-8
