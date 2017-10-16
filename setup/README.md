@@ -19,4 +19,9 @@ Mount directory
 ssh - [https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh](https://www.digitalocean.com/community/tutorials/how-to-use-sshfs-to-mount-remote-file-systems-over-ssh)
 ftp - [https://linuxconfig.org/mount-remote-ftp-directory-host-locally-into-linux-filesystem](https://linuxconfig.org/mount-remote-ftp-directory-host-locally-into-linux-filesystem)
 
+
 ## Doker
+
+Install Docker
+[https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-using-the-repository](https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/#install-using-the-repository)
+
